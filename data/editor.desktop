@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Editor
+Comment=Editor de textos
+Exec=editor %U
+StartupNotify=true
+Terminal=false
+Type=Application
+Icon=accessories-text-editor
+Categories=GNOME;GTK;Utility;TextEditor;
